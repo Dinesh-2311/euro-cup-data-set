@@ -22,12 +22,19 @@ License
 The project involves simulating each game in the UEFA Euro to find the most likely results. The model uses Poisson distribution to predict the number of goals each team will score based on historical data. The predictions are then used to determine the probabilities of different match outcomes.
 
 **Requirements**:
+
 Python 3.x
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scipy
+
 tqdm
 
 **Installation**:
