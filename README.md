@@ -4,12 +4,19 @@
 This project aims to predict the outcomes of UEFA Euro matches using a Poisson distribution-based model. The model uses historical data to predict the number of goals each team is likely to score and then calculates the probabilities of different match outcomes (win, draw, loss) based on these predictions.
 
 **Table of Contents**
+
 Introduction
+
 Requirements
+
 Installation
+
 Usage
+
 Model Details
+
 Results
+
 License
 
 **Introduction**:
