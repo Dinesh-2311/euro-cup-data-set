@@ -47,8 +47,8 @@ Clone the repository:git clone https://github.com/Dinesh-2311/euro-cup-data-set.
 new_model.csv
 euro_matches.csv
 
-**Run the Jupyter notebook to perform the predictions:**
-**jupyter notebook Final_Prediction.ipynb**
+**Run the Jupyter notebook to perform the predictions:** **jupyter notebook Final_Prediction.ipynb**
+
 Follow the instructions in the notebook to load the data, train the model, and predict match outcomes.
 
 **Model Details**:
