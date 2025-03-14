@@ -42,9 +42,13 @@ Follow the instructions in the notebook to load the data, train the model, and p
 The model uses the following steps to predict match outcomes:
 
 **Data Loading:** Load historical match data and team statistics.
+
 **Feature Extraction:** Extract features for each team based on historical performance.
+
 **Model Training:** Train a Random Forest model to predict the expected goals (xG) for each team.
+
 **Poisson Distribution:** Use the Poisson distribution to calculate the probabilities of different goal outcomes.
+
 **Match Simulation:** Simulate each match to determine the most likely outcome based on the calculated probabilities.
 
 **Results**
@@ -55,7 +59,7 @@ Germany Wins: 59.10%
 Draw: 29.18%
 Scotland Wins: 11.71%
 most prob result Germany 2 - 1 Scotland
-------------------------------------------
+
 **License**:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
